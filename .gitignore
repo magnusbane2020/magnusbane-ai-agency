@@ -1,0 +1,16 @@
+# Secrets
+.env
+OpenAi API Key.txt
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual envs
+venv/
+.venv/
+
+# Editors/OS
+.idea/
+.vscode/
+.DS_Store
